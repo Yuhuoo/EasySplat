@@ -1,0 +1,6 @@
+# ninja log v5
+1	11097	1733403301146410731	/data1/GaoAo/code/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	644ddcdab220a0a9
+0	19689	1733403309754435953	/data1/GaoAo/code/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	daf4f8c988f99d15
+1	53264	1733403343302533706	/data1/GaoAo/code/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	fa293f610aa75733
+14	51626	1733461019248915035	/data1/GaoAo/code/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	fa293f610aa75733
+13	50430	1733478645351889330	/data1/GaoAo/code/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	fa293f610aa75733
