@@ -1,4 +1,4 @@
-# EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy
+# EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy(ICME2025)
 
 ## Contribution:
 - A view-adaptive image pair construction strategy based on image similarity.
