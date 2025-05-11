@@ -14,7 +14,7 @@ This project is built upon InstantSplat, extending the capabilities of DUSt3R to
 ## Get Started
 
 ### Installation
-1. Clone InstantSplat and download pre-trained model.
+1. Clone EasySplat and download pre-trained model.
 ```bash
 git clone --recursive https://github.com/Yuhuoo/EasySplat.git
 cd EasySplat
